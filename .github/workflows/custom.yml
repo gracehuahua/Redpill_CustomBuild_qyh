@@ -6,7 +6,7 @@
 #
 
 
-name: Custom 3617
+name: Custom 3615
 on:
   issues:
     types: [opened]
