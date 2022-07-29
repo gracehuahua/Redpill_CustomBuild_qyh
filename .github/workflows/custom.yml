@@ -6,7 +6,7 @@
 #
 
 
-name: Custom Redpill
+name: Custom 3617
 on:
   issues:
     types: [opened]
